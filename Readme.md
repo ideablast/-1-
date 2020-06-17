@@ -10,4 +10,4 @@
 - 학습률 최적화ㅡ 군집 분석 구현, Cost Function 구현
 
 ##  4주차 과제
-- 딥러닝 용어 정리, 클론 코딩, 딥러닝 순전파 & 역전파 계산
+- [딥러닝 용어 정리, 클론 코딩, 딥러닝 순전파 & 역전파 계산](https://github.com/ideablast/AI_Pre_Course/blob/master/task4_Duki.ipynb)
